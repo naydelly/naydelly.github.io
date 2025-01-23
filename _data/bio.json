@@ -34,7 +34,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
-      "startDate": "Fall 2023",
+      "startDate": "",
       "endDate": "Present",
       "courses": [
       ]
@@ -59,8 +59,8 @@
       "organization": "ACM Software Development Team",
       "website": "",
       "position": "Team Member",
-      "startDate": "Jan. 2024",
-      "endDate": "May. 2024",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": [
         "Developed web-based applications with IDEs such as IntelliJ and VS Code",
