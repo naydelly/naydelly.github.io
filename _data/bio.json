@@ -9,13 +9,14 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/naydelly" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/naydelespiritu" }
+      { "network": "github", "username": "naydelly", "url": "http://github.com/naydelly" },
+      { "network": "linkedin", "username": "naydelespiritu", "url": "http://linkedin.com/in/naydelespiritu" }
     ]
   },
   "interests": [
     { "name": "Cybersecurity" },
     { "name": "Information Technology" },
+    { "name": "Full-Stack Development" },
     { "name": "Software Engineering" }
   ],
   "skills": [
@@ -52,6 +53,31 @@
         "Answer phone and email responses to the ITS Help Desk"
       ]
     }
+  ],
+  "activities": [
+    {
+      "organization": "ACM Software Development Team",
+      "website": "",
+      "position": "Team Member",
+      "startDate": "Jan. 2024",
+      "endDate": "May. 2024",
+      "summary": "",
+      "highlights": [
+        "Developed web-based applications with IDEs such as IntelliJ and VS Code",
+        "Used HTML and CSS, employing libraries such as React and Bootstrap to enhance user interfaces"
+      ]
+    },
+    {
+      "organization": "Information and Computer Sciences",
+      "website": "",
+      "position": "Assistant Teaching Assistant",
+      "startDate": "Aug. 2024",
+      "endDate": "Dec. 2024",
+      "summary": "ATA for an ICS 111 course at UH Manoa.",
+      "highlights": [
+         "Assisted a class of around 30 students for a section of an Intro to Computer Science I course",
+         "Assisted the TA in delivering course content on Java fundamentals"
+      ]
   ],
   "awards": [
     {
