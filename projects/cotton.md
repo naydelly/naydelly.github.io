@@ -9,8 +9,11 @@ labels:
 summary: "Designed the garden and recreation area of my high school and organized a school beautification proposal along with our Art Club."
 ---
 
-<img class="img-fluid" src="../img/cotton/IMG_9395.jpeg">
+Together, we decided to paint on plexiglass, a durable material, with acrylic paint which adheres to the plexiglass well. To further beautify the area, we planted flowers and herbs such as mint along the fences.
 
+My proposed design for the school's recreation area:
+<img class="img-fluid" src="../img/cotton/IMG_9395.jpeg" width="500">
 
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Results of the plexiglass paintings and garden.
+<br>
+<img class="img-fluid" src="../img/cotton/IMG_0772.jpeg" width="500">
