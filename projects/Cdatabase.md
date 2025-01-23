@@ -17,13 +17,13 @@ summary: "I developed an application that manages a bank's records for ICS 212 -
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This project I programmed both the database and the user interface of the application. The user-interface displays a menu of options that a banker can choose from to manage the bank's records. The UI takes in input and displays records. The UI calls functions from the database. Some of the essential functions I wrote for the database include the addRecord, deleteRecord, findRecord, and printAllRecord functions. The database also has functions that read from and write to record files. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+This project heavily emphasizes the use of pointers and structures, which are the foundations of my database. This project demonstrates the use of Makefiles to execute the program.
 
-Here is some code that illustrates how we read values from the line sensors:
+My writefile function demonstrates 
 
-```cpp
+```c
 byte ADCRead(byte ch)
 {
     word value;
@@ -34,5 +34,3 @@ byte ADCRead(byte ch)
     return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
 }
 ```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
