@@ -2,13 +2,11 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "School Beautification Project"
+date: 2023
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+summary: "Designed the garden and recreation area of my high school and organized a school beautification proposal along with our Art Club."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
