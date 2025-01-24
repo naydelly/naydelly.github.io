@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/bank3.png
 title: "Bank Database Application in C"
 date: 2024
 published: true
@@ -13,8 +13,6 @@ summary: "I developed an application that manages a bank's records for ICS 212 -
 
 <div class="text-center p-4">
   <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
 This project I programmed both the database and the user interface of the application. The user-interface displays a menu of options that a banker can choose from to manage the bank's records. The UI takes in input and displays records. The UI calls functions from the database. Some of the essential functions I wrote for the database include the addRecord, deleteRecord, findRecord, and printAllRecord functions. The database also has functions that read from and write to record files. 
