@@ -8,6 +8,7 @@ published: true
 labels:
   - Programming
   - Software Engineering
+  - Typescript
 ---
 
 <div>
