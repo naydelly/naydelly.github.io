@@ -13,6 +13,7 @@ labels:
 <div>
   
  <img src="../img/Typescript.png" class="img-thumbnail" style="float: right; margin-right: 15px;" width="200px" alt="TS">
+</div>
 
 ## First Thoughts on Typescript
   
@@ -24,4 +25,3 @@ From what I have learned so far, Typescript is essentially a version of Javascri
 
 ## Coding Athletics
 The practice Workout of the Days (WODs) we completed for ICS 314 were an effective means of familiarizing me with the expectations for the real WODs. Although the WODs may feel stressful knowing I am being timed, I think the WODs are important for us to train our critical thinking and problem-solving skills. Truthfully, I enjoy these types of hands-on activities because they are the most immersive and interactive way to learn. I find that I learn best through interactive activities such as the WODs. All in all, the WODs will help me refine my proficiency in coding and problem-solving which I hope will contribute to both my personal and professional development.
-</div>
