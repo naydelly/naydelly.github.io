@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/img/IMG_9931.jpg
+image: img/IMG_9931.jpg
 title: "Whack-a-Fruit Game"
 date: 2023
 published: true
