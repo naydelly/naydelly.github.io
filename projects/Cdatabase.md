@@ -20,6 +20,8 @@ This project heavily emphasizes the use of pointers and structures, which are th
 
 Below is an example of one of my database functions, findRecord, which finds and displays a bank record given the account number.
 
+</div>
+
 ```c
 int findRecord (struct record * start, int uaccountno)
 {   
@@ -59,4 +61,3 @@ int findRecord (struct record * start, int uaccountno)
 }
 
 ```
-</div>
