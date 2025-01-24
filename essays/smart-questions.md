@@ -11,11 +11,10 @@ labels:
 ---
 
 <div>
-
+  
+ <img src="../img/Typescript.png" class="img-thumbnail" style="float: right; margin-right: 15px;" width="200px" alt="TS">
 
 ## First Thoughts on Typescript
-
-  <img src="../img/Typescript.png" class="img-thumbnail" style="float: right; margin-right: 15px;" width="200px" alt="TS">
   
 As a Typescript newbie, at first glance Typescript seemed mostly similar to Javascript. Though unlike Javascript, Typescript specifies variable types and performs a form of type checking which strictly does not allow a variable to change its type throughout the code. Another difference I noticed was the slight change in syntax. The only experience I have with Typescript was going through the tutorials in W3Schools, which were easy to navigate and understand. However, just like any other language, I would definitely benefit from a lot of practice with Typescript.
 
