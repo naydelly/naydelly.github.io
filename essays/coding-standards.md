@@ -18,7 +18,7 @@ Following coding standards can also ultimately prevent errors. For example, if y
 
 <div>
   
- <img src="../img/ESLint_logo.png" class="img-thumbnail" style="float: right; margin-right: 15px;" width="300px" alt="TS">
+ <img src="../img/ESLint_logo.png" class="img-thumbnail" style="float: right; margin-left:15px; margin-right: 15px;" width="200px" alt="TS">
 </div>
 
 ## ESLint for Prettier Code
