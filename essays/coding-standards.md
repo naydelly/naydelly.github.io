@@ -13,6 +13,7 @@ labels:
 ## Coding Standards
 Coding standards are a set of rules or style guidelines that programmers follow when writing code in a certain language. I think holding ourselves to these coding standards can be beneficial for learning any new programming language. Coding standards have a huge impact on code readability. Especially when working in a team, it is important to write code that is easy for others to understand and contribute to. 
 <br>
+
 Following coding standards can also ultimately prevent errors. For example, if you define an optional property of a type and try to call or use it while it is undefined, this could lead to a runtime error! Thankfully, there are many tools we could use to enforce these coding standards, such as Checkstyle for Java. One great tool I have started using is ESLint for Typescript.
 <br> 
 
