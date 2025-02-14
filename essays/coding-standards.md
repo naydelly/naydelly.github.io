@@ -14,7 +14,7 @@ labels:
 Coding standards are a set of rules or style guidelines that programmers follow when writing code in a certain language. I think holding ourselves to these coding standards can be beneficial for learning any new programming language. Coding standards have a huge impact on code readability. Especially when working in a team, it is important to write code that is easy for others to understand and contribute to. 
 <br>
 
-Following coding standards can also ultimately prevent errors. For example, if you define an optional property of a type and try to call or use it while it is undefined, this could lead to a runtime error! Thankfully, there are many tools we could use to enforce these coding standards, such as Checkstyle for Java. One great tool I have started using is ESLint for Typescript.
+Following coding standards can also ultimately prevent errors. For example, if you define an optional property of a type and try to call or use it while it is undefined, this could lead to a runtime error! Thankfully, there are many tools we could use to enforce these coding standards, such as Checkstyle for Java. One great tool I've started using is ESLint for Typescript.
 <br> 
 
 <div>
@@ -32,6 +32,5 @@ There is an option to have ESLint fix your code using the ```npm run lint -- --f
   
  <img src="../img/eslinterrors.png" class="img-thumbnail" width="500px" alt="">
 </div>
-<br>
 
 I think it's important that, as programmers, we make use of these tools to make coding more efficient and enjoyable rather than stressful and we develop the habit of following coding standards.
