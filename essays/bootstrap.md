@@ -14,7 +14,7 @@ labels:
 
 <div>
   
- <img src="../img/Bootstrap_logo.png" class="img-thumbnail" style="float: right; margin-right: 15px;" width="200px" alt="TS">
+ <img src="../img/Bootstrap_logo.png" class="img-thumbnail" style="float: right; margin-left: 15px;" width="200px" alt="TS">
 </div>
 
 User Interface (UI) frameworks serve as helpful tools for styling websites. Bootstrap is a popular UI framework that provides pre-designed templates and templates for web pages such as: buttons, icons, headers, and footers. It can be set up easily on a Visual Studio Code workspace through a content delivery network (CDN) by pasting the required links at the top of an HTML file that needs to be styled. Including Bootstrap from a CDN also allows the website to load faster for users!
@@ -32,6 +32,6 @@ Overall, I think learning Bootstrap was fun, although it took some practice to g
 On the left is an image of a webpage I created for ICS 314 without Bootstrap and on the right is the same webpage created with Bootstrap. Although I would still be able to create the same effects without Bootstrap, it would require much more code. Bootstrap makes styling much less messy and complex.
 <br>
 <div style="display: flex; gap: 10px;">
-<img src="../img/bootstrap/justcss.png" width="200px">
-<img src="../img/bootstrap/withbootstrap.png" width="200px">
+<img src="../img/bootstrap/justcss.png" width="400px">
+<img src="../img/bootstrap/withbootstrap.png" width="400px">
 </div>
