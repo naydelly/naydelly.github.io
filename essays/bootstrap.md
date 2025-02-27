@@ -17,7 +17,7 @@ labels:
  <img src="../img/Bootstrap_logo.png" class="img-thumbnail" style="float: right; margin-left: 15px;" width="200px" alt="TS">
 </div>
 
-User Interface (UI) frameworks serve as helpful tools for styling websites. Bootstrap is a popular UI framework that provides pre-designed templates and templates for web pages such as: buttons, icons, headers, and footers. It can be set up easily on a Visual Studio Code workspace through a content delivery network (CDN) by pasting the required links at the top of an HTML file that needs to be styled. Including Bootstrap from a CDN also allows the website to load faster for users!
+User Interface (UI) frameworks serve as helpful tools for styling websites. Bootstrap is a popular UI framework that provides pre-designed templates and elements for web pages such as: buttons, icons, headers, and footers. It can be set up easily on a Visual Studio Code workspace through a content delivery network (CDN) by pasting the required links at the top of an HTML file that needs to be styled. Including Bootstrap from a CDN also allows the website to load faster for users!
 <br> 
 
 ## My thoughts on Bootstrap 5
@@ -30,10 +30,10 @@ However, learning Bootstrap wasn't all too easy. At first, I was confused on how
 Overall, I think learning Bootstrap was fun, although it took some practice to get the hang of, it turned out to be easy and convenient to use. I would like to learn to style web pages with other UI frameworks too. 
 <br> 
 
-## Just CSS vs UI Framework
+## Just CSS vs. UI Framework
 On the left is an image of a webpage I created for ICS 314 without Bootstrap and on the right is the same webpage created with Bootstrap. The webpage on the right, with the navigation bar at the very top, looks neat and professional. Although I would still be able to create the same effects without Bootstrap, it would require more code. Bootstrap makes styling much less messy and complex.
 <br>
 <div style="display: flex; gap: 10px;">
-<img src="../img/bootstrap/justcss.png" width="400px">
-<img src="../img/bootstrap/withbootstrap.png" width="400px">
+<img src="../img/bootstrap/justcss.png" width="500px">
+<img src="../img/bootstrap/withbootstrap.png" width="500px">
 </div>
