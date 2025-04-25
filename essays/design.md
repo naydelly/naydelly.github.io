@@ -26,7 +26,7 @@ For the final project, I was in charge of making the “Post A Bite” page func
 <br>
 <div style="display: flex; gap: 10px;">
 <img src="../img/76313_WEB_Lineup_NOBG_en.png" width="500px">
-<img src="..img/postss.png" width="500px">
+<img src="../img/postss.png" width="500px">
 </div>
 
 ## Model-View-Controller Pattern
