@@ -11,28 +11,26 @@ labels:
   - Design Patterns
 ---
 
-<div>
-  
- <img src="../img/Bootstrap_logo.png" class="img-thumbnail" style="float: right; margin-left: 15px;" width="200px" alt="TS">
-</div>
+##Programming is Like Building Legos
 
-User Interface (UI) frameworks serve as helpful tools for styling websites. Bootstrap is a popular UI framework that provides pre-designed templates and elements for web pages such as: buttons, icons, headers, and footers. It can be set up easily on a Visual Studio Code workspace through a content delivery network (CDN) by pasting the required links at the top of an HTML file that needs to be styled. Including Bootstrap from a CDN also allows the website to load faster for users!
-<br> 
+Instead of developing software from scratch with every project, programmers and developers can use design patterns, solutions to common coding problems. Design patterns provide blueprints or processes that can be modified to fit a project’s specifications. Design patterns are like LEGO blueprints or more so the Lego builder app. Just like Lego builders use creativity and instructions to create flexible and aesthetic models, developers use design patterns to structure their applications in smart and efficient ways. These blueprints help turn a pile of blocks into something functional, strong, and or pretty. The great thing about Lego is that the same pieces can be used to make different sets.
+<br>
 
-## My thoughts on Bootstrap 5
-I find Bootstrap to be more convenient than just using HTML and CSS alone. Using the shorthand classes within HTML is much easier than making a seperate class on css for each element or group of elements. For instance, to center an element in HTML with the help of Bootstrap, we can define the class for a division in HTML with ```div class="mx-auto"``` is easier than creating a class for that object and adjusting the left and right margins with ```margin-left: auto; margin-right: auto;```. 
-<br> 
+##Design Patterns Used For My Final Project
 
-However, learning Bootstrap wasn't all too easy. At first, I was confused on how to customize the default colors, fonts, and styling that Bootstrap includes with it's elements. However, I was able to figure out how to do so, for example, to change the default navigation bar's color from one of their default colors:```<nav class="navbar navbar-expand-sm navbar-dark fixed-top bg-dark">``` we can just add: ```style="background-color: #1b4f24;"``` to change the default bg-dark color to any color we like. After practicing styling with Bootstrap by recreating webpages, I can now confidently create basic website components such as navigation bars.
-<br> 
+In my ongoing team final project for ICS 314: Software Engineering I built with Next.js, TypeScript, CSS, and React Bootstrap, I found myself using “LEGO techniques” to make sure the website, Campus Plate Mate, was functional and programming was efficient.
+<br>
 
-Overall, I think learning Bootstrap was fun, although it took some practice to get the hang of, it turned out to be easy and convenient to use. I would like to learn to style web pages with other UI frameworks too. 
-<br> 
-
-## Just CSS vs. UI Framework
-On the left is an image of a webpage I created for ICS 314 without Bootstrap and on the right is the same webpage created with Bootstrap. The webpage on the right, with the navigation bar at the very top, looks neat and professional. Although I would still be able to create the same effects without Bootstrap, it would require more code. Bootstrap makes styling much less messy and complex.
+##Factory Pattern
+For the final project, I was in charge of making the “Post A Bite” page functional, being able to write to the database. For this specific issue, the factory pattern was most useful as it encapsulates the logic needed to create standardized objects. Whenever a post is created and shared, it always follows the same structure and each post has the same required fields of information. Imagine building a Lego minifigure, most of them have the same parts: head, hair, torso, legs, and accessories. The following function for creating a post in Typescript is shown in the following picture. All posts follow the same structure, just like minifigures do!
 <br>
 <div style="display: flex; gap: 10px;">
-<img src="../img/bootstrap/justcss.png" width="500px">
-<img src="../img/bootstrap/withbootstrap.png" width="500px">
+<img src="../img/bootstrap/76313_WEB_Lineup_NOBG_en.png" width="500px">
+<img src="../img/bootstrap/postss.png" width="500px">
 </div>
+
+##Model-View-Controller Pattern
+I also used the Model-View-Controller (MVC) Pattern to keep things structured. With the Post model in our schema.prisma file we define what a post should look like, including types and requirements. The ‘view’ part is built using React and styled with CSS and Bootstrap, creating a clean and responsive user interface. The API routes act like the controller, taking input from forms, interacting with the database, and allowing users to view information from the database. This reminded me of LEGO blueprints, which break builds into logical stages: first the foundation, walls, doors, windows, then the fun decor and minifigures. This structure made the website development easier to understand for myself and the rest of my team members.
+<br>
+
+This essay was written with the help of AI (ChatGPT).
