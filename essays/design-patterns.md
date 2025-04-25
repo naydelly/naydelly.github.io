@@ -1,3 +1,16 @@
+---
+layout: essay
+type: essay
+title: "Design Patterns in Software Dev: Building Lego Sets!"
+# All dates must be YYYY-MM-DD format!
+date: 2025-04-24
+published: true
+labels:
+  - Software Engineering
+  - Programming
+  - Design Patterns
+---
+
 <div>
   
  <img src="../img/Bootstrap_logo.png" class="img-thumbnail" style="float: right; margin-left: 15px;" width="200px" alt="TS">
