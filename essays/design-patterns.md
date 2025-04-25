@@ -25,8 +25,8 @@ In my ongoing team final project for ICS 314: Software Engineering I built with 
 For the final project, I was in charge of making the “Post A Bite” page functional, being able to write to the database. For this specific issue, the factory pattern was most useful as it encapsulates the logic needed to create standardized objects. Whenever a post is created and shared, it always follows the same structure and each post has the same required fields of information. Imagine building a Lego minifigure, most of them have the same parts: head, hair, torso, legs, and accessories. The following function for creating a post in Typescript is shown in the following picture. All posts follow the same structure, just like minifigures do!
 <br>
 <div style="display: flex; gap: 10px;">
-<img src="../img/bootstrap/76313_WEB_Lineup_NOBG_en.png" width="500px">
-<img src="../img/bootstrap/postss.png" width="500px">
+<img src="../img/76313_WEB_Lineup_NOBG_en.png" width="500px">
+<img src="..img/postss.png" width="500px">
 </div>
 
 ## Model-View-Controller Pattern
