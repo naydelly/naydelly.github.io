@@ -17,59 +17,59 @@ labels:
 With advancements in AI, tools such as ChatGPT and Github Co-pilot have been used extensively in software engineering and education. AI is becoming smarter and ultimately more helpful for students. In ICS 314 Software Engineering I, I have used both ChatGPT and Co-pilot throughout my learning process and to solve challenges I have faced when completing coding Workout of the Days (WODs) and the final project.
 
 ## II. Personal Experience with AI
-1. Experience WODs e.g. E18
+**Experience WODs e.g. E18**
 
 Once I had Co-pilot set up on Visual Studio Code, it would automatically finish code for me while working on the experience WODS. For instance, for one of our very first experiences WODs (sum of numbers) with co-pilot enabled, the body for each required function was auto-completed. 
 
-2. In-class Practice WODs
+**In-class Practice WODs**
 
 I sometimes used ChatGPT for our in-class practice WODs. I mostly remember using it for user interface coding problems. Other than that, I didn’t use any AI in order to work on my problem solving skills for the real WODs.
 
-3. In-class WODs
+**In-class WODs**
    
 I believe for the first two in-class WODs: WOD Typescript 1 and 2, I did not use AI. Since we completed these two WODs after the Typescript tutorials, I was familiar enough with the syntax, it was just a matter of problem solving. Practice and screencasts beforehand also aided in my ability to finish the WODs in time and successfully. However, I did use ChatGPT for the later WODs, especially the ones involving UI design. For example, we had to recreate a website with a fixed floating button in the bottom corner, I had no idea how to do this so I asked ChatGPT and copied the code it suggested to me into mine and it worked the first try. 
 
-4. Essays
+**Essays**
 
 For the essays, I used AI to an extent and not very frequently. I personally think that it is easy to tell that an essay was written by AI which is why I prefer not to use it. However, sometimes I struggle to see grammatical or spelling errors in my writing which is why I put parts of my essay into either ChatGPT or Grammarly to double-check. Sometimes I would also have trouble getting started on my essays, especially how to structure it. I would prompt ChatGPT to give me a template, headings, or starter questions to boost my writing, because I often just don’t know where to start.
 
-5. Final Project
+**Final Project**
 
 I used AI frequently for our final project, Campus Plate Mate, because I would often get errors working with functions that edit, alter, and or delete data to and from the database. I once got an error in a typescript file that took a while to solve even with ChatGPT. Turns out there was a mismatch between the fields in our data model and the function I created to add data to the database. ChatGPT was very helpful in solving similar problems.
 
-6. Learning a concept / tutorial
+**Learning a concept / tutorial**
 
 I would ask ChatGPT to give me examples on how to use certain Typescript functions. I would also ask for examples in order to understand how to structure code for the UI of a website using React or CSS.
 
-7. Answering a question in class or in Discord
+**Answering a question in class or in Discord**
 
 I did not answer questions in class other than questions asked by other students for which I answered without the use of AI. I also did not ask or answer questions in the Discord.
 
-8. Asking or answering a smart-question
+**Asking or answering a smart-question**
 
 I did not ask or answer questions in Discord.
 
-9. Coding example e.g. “give an example of using Underscore .pluck”
+**Coding example e.g. “give an example of using Underscore .pluck”**
 
 To fully understand typescript functions and functional programming, I would ask ChatGPT to give me examples on how certain functions like map or reduce which benefited my learning.
 
-10. Explaining code
+**Explaining code**
 
 I definitely used ChatGPT to explain code I didn’t understand. I remember asking AI to give me examples and explain in detail classes and constructors in Typescript. I also eventually asked it to explain how CSS classes worked. 
 
-11. Writing code
+**Writing code**
 
 When first writing code, instead of using AI, I would use examples provided by the screencasts, modules, or previous assignments we have completed. Most of the time the WODs would just build off of the homeworks or previous WODs. 
 
-12. Documenting code
+**Documenting code**
 
 I did not use AI to document code because it was a task at which AI could not be of use.
 
-13. Quality assurance e.g. “What’s wrong with this code ...” or “Fix the ESLint errors in ...”
+**Quality assurance e.g. “What’s wrong with this code ...” or “Fix the ESLint errors in ...”**
 
 While working on the WODs and the final project, I would sometimes copy and paste code into ChatGPT in hopes that it would fix the errors for me and arrange my code correctly to get the result I wanted. For instance, I had trouble with how to structure containers, divs, rows, and or columns in the front-end code. Sometimes my mistakes would cause the UI to look completely off and with so many lines I had trouble finding the formatting error. ChatGPT always came to my rescue. Copilot would also fix my ESlint errors for me by providing suggestions.
 
-14. Other uses in ICS 314 not listed
+**Other uses in ICS 314 not listed**
 
 I have not used AI in any other uses in this class.
 
