@@ -27,7 +27,7 @@ I sometimes used ChatGPT for our in-class practice WODs. I mostly remember using
 
 **In-class WODs**
    
-I believe for the first two in-class WODs: WOD Typescript 1 and 2, I did not use AI. Since we completed these two WODs after the Typescript tutorials, I was familiar enough with the syntax, it was just a matter of problem solving. Practice and screencasts beforehand also aided in my ability to finish the WODs in time and successfully. However, I did use ChatGPT for the later WODs, especially the ones involving UI design. For example, we had to recreate a website with a fixed floating button in the bottom corner, I had no idea how to do this so I asked ChatGPT and copied the code it suggested to me into mine and it worked the first try. 
+I believe for the first two in-class WODs: WOD Typescript 1 and 2, I did not use AI. Since we completed these two WODs after the Typescript tutorials, I was familiar enough with the syntax, it was just a matter of problem solving. Practice and screencasts beforehand also aided in my ability to finish the WODs in time and successfully. However, I did use ChatGPT for the later WODs, especially the ones involving UI design. For example, we had to recreate a website with a fixed floating button in the bottom corner, I had no idea how to do this so I asked ChatGPT and used the code it suggested. 
 
 **Essays**
 
@@ -94,4 +94,4 @@ In software engineering education, AI can be used as a tool to improve efficienc
 
 Ultimately, although I did not need to use AI in all of the aspects that I have listed above, it has played an important role in my learning process and allowed me to code efficiently. With AI, I was able to save time completing projects or WODs. Instead of taking hours to debug a singular error, I was able to ask ChatGPT or Copilot to provide possible solutions. However, being over reliant on AI was something I was worried about. This is why I avoided using AI when solving problems I know I could solve independently with other learning resources and research if needed. 
 
-As I have stated before, it is important that AI is not only used as a means to an end. Instructors cannot completely control how students learn and how they use AI so it is up to the student to use AI properly. AI should not be a necessity for students but rather a tool.
+As I have stated before, it is important that AI is not only used as a means to an end. Instructors cannot completely control how students learn and how they use AI so it is up to the student to use AI properly. AI should not be a necessity for students but rather a useful tool.
