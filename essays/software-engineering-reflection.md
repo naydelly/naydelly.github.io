@@ -28,6 +28,10 @@ IDPM is an agile project management process that my team and I utilized for our 
 
 Additionally, before starting the project, our team created a Github workflow that organized our issues into ‘To Do’, ‘In Progress’, and ‘Completed’ categories. This workflow helped us keep track of all the tasks that need to be completed and those already being worked on by the other team members. These tactics have been very valuable in improving my time management and teamwork skills. These skills along with IDPM are beneficial to not only software engineers, but to any profession or personal projects.
 
+<div style="text-align: center;">
+  <img src="../img/m3.png" alt="" style="width: 70%; max-width: 70%;">
+</div>
+
 ## Conclusion
 
 This course has taught me valuable management skills that I will use throughout both my academic and professional journey. Ultimately, I found IDPM to be a very efficient process compared to other project management processes. Configuration management helped me become familiar with platforms such as Github and understand the importance of version control in software development. Even beyond software development, it is essential to track changes to projects. IDPM is a process that promotes time management and collaboration, both of which are important for quality results.
