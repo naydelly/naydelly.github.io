@@ -8,8 +8,9 @@ published: true
 labels:
   - Typescript
   - UI Design
-  - SQL
   - Web Application
+  - Database
+  - CSS
 summary: "My team and I developed a website that allows users to share their leftovers to other UH-affilates on campus, aiming to help reduce food waste."
 ---
 
@@ -31,3 +32,23 @@ For this project, I chose to focus on the back-end functionality of our website.
 - Differentiating Admin/User Permissions
 
 The first big task I was responsible for involved creating a Post model with its required fields in the schema.prisma. The model refers to a table in our database that stores all the information on the posts created by users. I created the “Post A Bite” page for users to create and share a post by entering important information such as: location, food, description, and quantity. I updated permissions so that users can edit or delete their own posts and the admin can delete any post from the dashboard that violates guidelines.
+
+<div style="text-align: center;">
+  <img src="../img/landingpage-1.png" alt="Bank" style="width: 100%; max-width: 100%;">
+</div>
+
+<div style="text-align: center;">
+  <img src="../img/signin-slide.png" alt="Bank" style="width: 100%; max-width: 100%;">
+</div>
+
+<div style="text-align: center;">
+  <img src="../img/dashboard-1.png" alt="Bank" style="width: 100%; max-width: 100%;">
+</div>
+
+<div style="text-align: center;">
+  <img src="../img/addfoodpage.png" alt="Bank" style="width: 100%; max-width: 100%;">
+</div>
+
+<div style="text-align: center;">
+  <img src="../img/admin-feedback.png" alt="Bank" style="width: 100%; max-width: 100%;">
+</div>
