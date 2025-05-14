@@ -36,7 +36,9 @@ The first big task I was responsible for involved creating a Post model with its
 
 ## My Experience
 
-This experience helped to improve my skills in problem-solving, communication, and project management. Although, solving bugs and errors were challenging, which I had to deal with a lot working with the database, it required me to be resourceful, go through trial and error, and manage my time effectively. This project familiarized me with the GitHub platform and the software development process, which have provided me with a valuable skill set. I am truly thankful for this hands-on experience and, despite the challenges, I enjoyed working with my team to create meaningful software.
+This experience helped to improve my skills in problem-solving, communication, and project management. Although, solving bugs and errors were challenging, which I had to deal with a lot working with the database, it required me to be resourceful, go through trial and error, and manage my time effectively. This project familiarized me with the GitHub platform and the software development process, which have provided me with a valuable skill set for my future in computer science. I am truly thankful for this hands-on experience and, despite the challenges, I enjoyed working with my team to create meaningful software.
+
+<br>
 
 <div style="text-align: center;">
   <img src="../img/cpm/dashboard.png" alt="" style="width: 100%; max-width: 100%;">
