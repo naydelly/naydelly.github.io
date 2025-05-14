@@ -35,25 +35,25 @@ For this project, I chose to focus on the back-end functionality of our website.
 The first big task I was responsible for involved creating a Post model with its required fields in the schema.prisma. The model refers to a table in our database that stores all the information on the posts created by users. I created the “Post A Bite” page for users to create and share a post by entering important information such as: location, food, description, and quantity. I updated permissions so that users can edit or delete their own posts and the admin can delete any post from the dashboard that violates guidelines.
 
 <div style="text-align: center;">
-  <img src="../img/dashboard.png" alt="Bank" style="width: 100%; max-width: 100%;">
+  <img src="../img/cpm/dashboard.png" alt="" style="width: 100%; max-width: 100%;">
 </div>
 
 <div style="text-align: center;">
-  <img src="../img/cpm/signin.png" alt="Bank" style="width: 100%; max-width: 100%;">
+  <img src="../img/cpm/signin.png" alt="" style="width: 100%; max-width: 100%;">
 </div>
 
 <div style="text-align: center;">
-  <img src="../img/cpm/dashboard2.png" alt="Bank" style="width: 100%; max-width: 100%;">
+  <img src="../img/cpm/dashboard2.png" alt="" style="width: 100%; max-width: 100%;">
 </div>
 
 <div style="text-align: center;">
-  <img src="../img/cpm/postabite.png" alt="Bank" style="width: 100%; max-width: 100%;">
+  <img src="../img/cpm/postabite.png" alt="" style="width: 100%; max-width: 100%;">
 </div>
 
 <div style="text-align: center;">
-  <img src="../img/cpm/rewards.png" alt="Bank" style="width: 100%; max-width: 100%;">
+  <img src="../img/cpm/rewards.png" alt="" style="width: 100%; max-width: 100%;">
 </div>
 
 <div style="text-align: center;">
-  <img src="../img/cpm/admin.png" alt="Bank" style="width: 100%; max-width: 100%;">
+  <img src="../img/cpm/admin.png" alt="" style="width: 100%; max-width: 100%;">
 </div>
