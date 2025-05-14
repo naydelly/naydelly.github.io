@@ -17,7 +17,7 @@ summary: "My team and I developed a website that allows users to share their lef
 ## Campus Plate Mate: Overview
   <img src="../img/cpm-logo.png" class="img-thumbnail" style="float: left; margin-right: 15px;" width="200px" alt="Bank">
 
-Millions of tons of food is wasted every year in the US. Food waste contributes to greenhouse gas emissions and perfectly consumable food is going to landfills instead of those facing food insecurity. To combat food waste, our team came up with the idea of a web application that allows users to share leftover or uneaten food with others on campus. Users can post pictures of their food along with necessary pick-up information on the dashboard for others to claim. As an incentive, users who post and claim food can earn points towards potential rewards. Our website also has a feedback portion for users to give feedback on the website for admin to view. We developed our application with Typescript and CSS, using Next.js and React frameworks.
+Millions of tons of food is wasted every year in the US. Food waste contributes to greenhouse gas emissions and perfectly consumable food is going to landfills instead of going to those struggling with food insecurity. To combat food waste, our team came up with the idea of a web application that allows users to share leftover or uneaten food with others on campus. Users can post pictures of their food along with necessary pick-up information on the dashboard for others to claim. As an incentive, users who post and claim food can earn points towards potential rewards. Our website also has a feedback portion for users to give feedback on the website for admin to view. We developed our application with Typescript and CSS, using Next.js and React frameworks.
 
 View our deployed web app here: [Campus Plate Mate](https://plate-mate-bice.vercel.app/)
 
@@ -32,7 +32,11 @@ For this project, I chose to focus on the back-end functionality of our website.
 - “Edit Post” page
 - Differentiating Admin/User Permissions
 
-The first big task I was responsible for involved creating a Post model with its required fields in the schema.prisma. The model refers to a table in our database that stores all the information on the posts created by users. I created the “Post A Bite” page for users to create and share a post by entering important information such as: location, food, description, and quantity. I updated permissions so that users can edit or delete their own posts and the admin can delete any post from the dashboard that violates guidelines.
+The first big task I was responsible for involved creating a Post model with its required fields in the schema.prisma. The model refers to a table in our database that stores all the information on the posts created by users. I created the “Post A Bite” page for users to create and share a post by entering important information such as: location, food, description, and quantity. I then implemented the edit post functionality. I also updated permissions so that users can edit or delete their own posts and the admin can delete any post from the dashboard that violates guidelines.
+
+## My Experience
+
+This experience helped to improve my skills in problem-solving, communication, and project management. Although, solving bugs and errors were challenging, which I had to deal with a lot working with the database, it required me to be resourceful, go through trial and error, and manage my time effectively. This project familiarized me with the GitHub platform and the software development process, which have provided me with a valuable skill set. I am truly thankful for this hands-on experience and, despite the challenges, I enjoyed working with my team to create meaningful software.
 
 <div style="text-align: center;">
   <img src="../img/cpm/dashboard.png" alt="" style="width: 100%; max-width: 100%;">
