@@ -4,7 +4,7 @@ type: essay
 title: "Exploring My Path Towards Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-22
-published: true
+published: false
 labels:
   - Software Engineering
   - Programming
